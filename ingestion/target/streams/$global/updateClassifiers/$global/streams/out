@@ -37,17 +37,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.scalastuff#scalabeans;0.2 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: org.scalastuff#scalabeans;0.2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	found org.scalastuff#scalabeans;0.2 in sbt-chain[0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.slf4j#slf4j-simple;1.7.25 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime, default(compile), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: org.slf4j#slf4j-simple;1.7.25[0m
@@ -149,21 +138,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson.module#jackson-module-scala;2.0.2 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime, default(compile), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime, default(compile), master]}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala;2.0.2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	found com.fasterxml.jackson.module#jackson-module-scala;2.0.2 in sbt-chain[0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson.core#jackson-annotations;2.9.0 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.9.0[0m
@@ -298,17 +272,6 @@
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: com.hatri#core_2.11;0.1.0 {compile=[compile, default(compile)], runtime=[compile, default(compile)], test=[compile, default(compile)], compile-internal=[compile, default(compile)], runtime-internal=[compile, default(compile)], test-internal=[compile, default(compile)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0m	found com.hatri#core_2.11;0.1.0 in inter-project[0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: com.thoughtworks.paranamer#paranamer;2.3 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.3[0m
-[0m[[0m[0mdebug[0m] [0m[0m	found com.thoughtworks.paranamer#paranamer;2.3 in sbt-chain[0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9[0m
@@ -441,14 +404,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->compile][0m
@@ -525,18 +480,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
@@ -635,14 +578,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
@@ -751,14 +686,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->compile][0m
@@ -835,18 +762,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
@@ -945,14 +860,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
@@ -1065,14 +972,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->compile][0m
@@ -1149,18 +1048,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
@@ -1259,14 +1146,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
@@ -1375,14 +1254,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->compile][0m
@@ -1459,18 +1330,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
@@ -1569,14 +1428,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
@@ -1685,14 +1536,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->compile][0m
@@ -1769,18 +1612,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->compile][0m
@@ -1879,14 +1710,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->compile][0m
@@ -2002,14 +1825,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->compile][0m
@@ -2086,18 +1901,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
@@ -2196,14 +1999,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
@@ -2314,14 +2109,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile-internal->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile-internal->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile-internal->compile][0m
@@ -2398,18 +2185,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile-internal->compile][0m
@@ -2508,14 +2283,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile-internal->compile][0m
@@ -2628,14 +2395,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->compile][0m
@@ -2712,18 +2471,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
@@ -2822,14 +2569,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
@@ -2938,14 +2677,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->compile][0m
@@ -3022,18 +2753,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
@@ -3132,14 +2851,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
@@ -3249,14 +2960,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime-internal->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime-internal->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime-internal->compile][0m
@@ -3333,18 +3036,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime-internal->compile][0m
@@ -3443,14 +3134,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [runtime-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime-internal->compile][0m
@@ -3564,14 +3247,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [compile->compile][0m
@@ -3648,18 +3323,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [compile->compile][0m
@@ -3758,14 +3421,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [compile->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [compile->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [compile->compile][0m
@@ -3874,14 +3529,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [runtime->compile][0m
@@ -3958,18 +3605,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [runtime->compile][0m
@@ -4068,14 +3703,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [runtime->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [runtime->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [runtime->compile][0m
@@ -4184,14 +3811,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test->compile][0m
@@ -4268,18 +3887,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test->compile][0m
@@ -4378,14 +3985,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test->compile][0m
@@ -4496,14 +4095,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-api;1.7.26 [test-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.scalastuff#scalabeans;0.2 [test-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test-internal->default][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test-internal->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.slf4j#slf4j-simple;1.7.25 [test-internal->compile][0m
@@ -4580,18 +4171,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test-internal->compile(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->org.apache.httpcomponents#httpclient;4.2.5 [test-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->default][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->master][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.module#jackson-module-scala;2.0.2 [test-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.core#jackson-annotations;2.9.0 [test-internal->compile][0m
@@ -4690,14 +4269,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.google.guava#guava;14.0.1 [test-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.hatri#core_2.11;0.1.0 [test-internal->default(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->runtime(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->master(compile)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->runtime][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->compile][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->compile(*)][0m
-[0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.thoughtworks.paranamer#paranamer;2.3 [test-internal->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test-internal->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test-internal->runtime(*)][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9 [test-internal->compile][0m
@@ -4854,43 +4425,40 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies com.hatri#data-ingestion-point$sources;0.1.0->jline#jline;2.14.3 [scala-tool->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.slf4j#slf4j-simple;1.7.25!slf4j-simple.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.26!slf4j-api.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.github.luben#zstd-jni;1.4.0-1!zstd-jni.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] io.spray#spray-json_2.11;1.3.5!spray-json_2.11.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.twitter#joauth;6.0.2!joauth.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.2.4!httpcore.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.github.luben#zstd-jni;1.4.0-1!zstd-jni.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.slf4j#slf4j-simple;1.7.25!slf4j-simple.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalastuff#scalabeans;0.2!scalabeans.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] io.spray#spray-json_2.11;1.3.5!spray-json_2.11.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.9.9!jackson-core.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.twitter#hbc-twitter4j;2.0.2!hbc-twitter4j.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.twitter4j#twitter4j-core;4.0.1!twitter4j-core.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.2.5!httpclient.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-scala;2.0.2!jackson-module-scala.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.9.9!jackson-core.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.0!jackson-annotations.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.2.5!httpclient.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.twitter4j#twitter4j-core;4.0.1!twitter4j-core.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.kafka#connect-api;2.3.0!connect-api.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lz4#lz4-java;1.6.0!lz4-java.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.lz4#lz4-java;1.6.0!lz4-java.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-databind;2.9.9!jackson-databind.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] commons-codec#commons-codec;1.6!commons-codec.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.xerial.snappy#snappy-java;1.1.7.3!snappy-java.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.rocksdb#rocksdbjni;5.18.3!rocksdbjni.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.twitter4j#twitter4j-stream;4.0.1!twitter4j-stream.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.google.guava#guava;14.0.1!guava.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.kafka#connect-json;2.3.0!connect-json.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.3!paranamer.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.9!jackson-datatype-jdk8.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.kafka#connect-json;2.3.0!connect-json.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.kafka#kafka-streams;2.3.0!kafka-streams.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe#config;1.3.0!config.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.twitter#hbc-core;2.0.2!hbc-core.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.typesafe.scala-logging#scala-logging_2.11;3.9.0!scala-logging_2.11.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.kafka#kafka-clients;2.3.0!kafka-clients.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.12!scala-compiler.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 378ms :: artifacts dl 7ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 218ms :: artifacts dl 6ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 compile produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 runtime produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 test produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-test.xml[0m
@@ -4902,4 +4470,4 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 plugin produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 pom produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for com.hatri#data-ingestion-point$sources;0.1.0 scala-tool produced in /Users/nyakio/hatri/ingestion/target/scala-2.11/resolution-cache/reports/com.hatri-data-ingestion-point$sources-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (378ms resolve - 7ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (218ms resolve - 6ms download)[0m

@@ -4,7 +4,7 @@
 		module="data-ingestion-point_2.11"
 		revision="0.1.0"
 		status="integration"
-		publication="20190813081333"
+		publication="20190814123235"
 	>
 		<description>
 		data-ingestion-point
@@ -36,10 +36,12 @@
 		<dependency org="io.spray" name="spray-json_2.11" rev="1.3.5" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.scala-logging" name="scala-logging_2.11" rev="3.9.0" conf="compile->default(compile)"/>
 		<dependency org="org.slf4j" name="slf4j-simple" rev="1.7.25" conf="compile->default(compile)"/>
-		<dependency org="com.fasterxml.jackson.module" name="jackson-module-scala" rev="2.0.2" conf="compile->default(compile)"/>
 		<dependency org="org.apache.kafka" name="kafka-streams" rev="2.3.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.kafka" name="kafka-clients" rev="2.3.0" conf="compile->default(compile)"/>
 		<dependency org="com.twitter" name="hbc-core" rev="2.0.2" conf="compile->default(compile)"/>
 		<dependency org="com.twitter" name="hbc-twitter4j" rev="2.0.2" conf="compile->default(compile)"/>
+		<override org="com.fasterxml.jackson.core" module="jackson-core" matcher="exact" rev="2.9.9"/>
+		<override org="com.fasterxml.jackson.core" module="jackson-databind" matcher="exact" rev="2.9.9"/>
+		<override org="com.fasterxml.jackson.module" module="jackson-module-scala_2.11" matcher="exact" rev="2.9.9"/>
 	</dependencies>
 </ivy-module>

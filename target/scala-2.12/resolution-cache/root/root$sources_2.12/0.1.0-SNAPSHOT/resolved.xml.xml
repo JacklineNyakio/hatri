@@ -4,7 +4,7 @@
 		module="root$sources_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190813093413"
+		publication="20190814133433"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

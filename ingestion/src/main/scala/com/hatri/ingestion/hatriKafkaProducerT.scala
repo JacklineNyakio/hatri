@@ -1,17 +1,16 @@
 package com.hatri.ingestion
 
 import java.util.Properties
-import scala.io.Source
 
 import org.apache.kafka._
-import clients.producer.{ KafkaProducer, ProducerConfig, ProducerRecord }
+import clients.producer.{ KafkaProducer, ProducerConfig, ProducerRecord, Callback, RecordMetadata }
 import common.serialization.StringSerializer
 
 import com.typesafe.scalalogging.LazyLogging
 
 import com.hatri.core.HatriConfig._
 
-trait HatriKafkaProducerT extends LazyLogging {
+object HatriKafkaProducer extends LazyLogging {
 
   //  creating a producer object that has values to pass to the producer.
   lazy val props = new Properties()
@@ -37,13 +36,22 @@ trait HatriKafkaProducerT extends LazyLogging {
       key,
       value
     )
-    try {
-      producer.send(producerRecord)
-    } catch {
-      case e : InterruptedException => e.getStackTrace
-      case _ : Throwable            => logger.error("An error has occurred while reading messages from the stream to Kafka.")
+//    A callback interface that the user can implement to allow code to execute when the request is complete.
+    val callback = new Callback {
+      override def onCompletion(
+         metadata: RecordMetadata,
+         exception: Exception
+      ): Unit = {
+        if(exception == null)
+          logger.info("Successful write")
+        else
+          logger.warn(s"Failed write: $exception")
+      }
     }
+    producer.send(producerRecord, callback)
+
   }
+
 
 }
 

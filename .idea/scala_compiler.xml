@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="hatri_2224,root" />
-    <profile name="sbt 2" modules="core,data-ingestion-point,data-transformation">
+    <profile name="sbt 2" modules="core,data-ingestion-point,data-transformation,spark-jobs">
       <option name="implicitConversions" value="true" />
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />

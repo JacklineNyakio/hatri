@@ -1,1 +1,1 @@
-["com.hatri.ingestion.TwitterStreamProducer"]
+["com.hatri.ingestion.HatriKafkaConsumer","com.hatri.ingestion.TwitterStreamProducer"]

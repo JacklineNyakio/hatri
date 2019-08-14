@@ -1,22 +1,22 @@
 package com.hatri.ingestion
 
-import java.util.concurrent.{ BlockingQueue, LinkedBlockingQueue }
+import java.util.concurrent.{BlockingQueue, LinkedBlockingQueue}
 
 import com.google.common.collect.Lists
 
 import com.twitter.hbc.ClientBuilder
-import com.twitter.hbc.core.{ Client, Constants }
+import com.twitter.hbc.core.{Client, Constants}
 import com.twitter.hbc.core.endpoint.StatusesFilterEndpoint
 import com.twitter.hbc.core.processor.StringDelimitedProcessor
-import com.twitter.hbc.httpclient.auth.{ Authentication, OAuth1 }
-
+import com.twitter.hbc.httpclient.auth.{Authentication, OAuth1}
 import com.typesafe.scalalogging.LazyLogging
 
 import com.hatri._
-
 import core.HatriConfig._
 
-object TwitterStreamProducer extends LazyLogging with HatriKafkaProducerT with App  {
+import scala.io.StdIn
+
+object TwitterStreamProducer extends LazyLogging with App {
 
   val queue : BlockingQueue[String] = new LinkedBlockingQueue[String](10000)
   val endpoint: StatusesFilterEndpoint = new StatusesFilterEndpoint()
@@ -33,12 +33,12 @@ object TwitterStreamProducer extends LazyLogging with HatriKafkaProducerT with A
 
   client.connect()
 
-  for (msgRead <- 0 until 10000) {
-    writeToKafka(
+  HatriKafkaProducer.writeToKafka(
       kafkaTopic,
       queue.take()
     )
-  }
+    logger.info(s"msgRead is ${queue.take()}")
 
-client.stop()
+  StdIn.readLine()
+  client.stop()
 }
